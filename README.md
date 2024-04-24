@@ -1,4 +1,13 @@
-En este repositorio, se encontraran todos los ejercicios realizados sumados a los comentarios correspondientes en el documento del mismo. 
+# Leeme
 
+## Información del Alumno
+- **Nombre:** Facundo Carrizo Lucero
+- **Universidad:** Universidad Almirante Brown (UNaB)
+- **Carrera:** Tec. En Programación
+- **Asignatura:** Programación Avanzada
 
-# FIN :)
+## Descripción
+Este repositorio contiene todos los ejercicios realizados, acompañados de comentarios personales correspondientes a los documentos del mismo.
+
+## ¡Gracias por visitar!
+¡Gracias por explorar este repositorio :)!
